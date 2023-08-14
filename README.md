@@ -9,3 +9,6 @@
 - jobs: executed in azure
 - depends: specify what capabilities the agent must have
 - container jobs: jobs can be runned in docker container
+
+## developing azure pipelines 
+- classic ui vs YAML files
